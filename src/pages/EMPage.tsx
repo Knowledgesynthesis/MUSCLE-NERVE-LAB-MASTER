@@ -1,6 +1,6 @@
 import { Microscope } from 'lucide-react'
 import { ModuleLayout } from '@/components/layout/ModuleLayout'
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 
 export default function EMPage() {
   const sections = [
